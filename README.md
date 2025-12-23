@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/Sanjog2708">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=100&color=F7B93E&center=true&vCenter=true&width=450&lines=Final+Year+Engineering+Student;DSA;Active+Learner;MERN+Stack!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=100&color=F7B93E&center=true&vCenter=true&width=450&lines= Final+Year+Engineering+Student;DSA;Active+Learner;MERN+Stack!" alt="Typing SVG" />
   </a>
 </p>
 
